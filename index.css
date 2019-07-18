@@ -1,0 +1,24 @@
+.Center {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    height: calc(100vh - 20px);
+    background-image: url('https://static.vecteezy.com/system/resources/previews/000/113/890/non_2x/free-vector-blue-degraded-background.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.photoPerfil {
+    height: 30%;
+    widows: 20%;
+    border-radius: 50%;
+}
+
+.color {
+    color: rgb(231, 219, 219);
+}
+
+.colorB {
+    color: rgb(56, 122, 116);
+}
