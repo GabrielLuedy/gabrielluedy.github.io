@@ -16,9 +16,28 @@
 }
 
 .color {
+    width: 94%;
+    height: 115px;
     color: rgb(231, 219, 219);
+    text-align: center;
 }
 
 .colorB {
     color: rgb(56, 122, 116);
+}
+
+.botao {
+    color: #65ccd3;
+    text-decoration: none;
+    padding: 24px;
+    background-color: seashell;
+    border-radius: 97px;
+}
+
+.botao:hover {
+    color: red;
+    text-decoration: none;
+    padding: 24px;
+    background-color: green;
+    border-radius: 97px;
 }
